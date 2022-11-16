@@ -1,1 +1,21 @@
 /* write your override styles here */
+p[alt="Chrome Dev Tool"] {
+    text-align: center;
+
+}
+
+#highlight {
+    display: flex;
+    justify-content: center;
+    margin: 2px 2px;
+    background-color: aqua;
+
+}
+
+.assigment-title {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    color: grey;
+    font-style: oblique;
+    font-weight: 400;
+}
